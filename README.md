@@ -1,0 +1,2 @@
+# coreadmin
+Generic Admin UI 
